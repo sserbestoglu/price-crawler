@@ -1,6 +1,6 @@
 # Shopping Price Avarage Search Crawler
 
-Bu proje, Google Shopping'de yapılan aramalarda ürün fiyatlarını alıp ortalamasını hesaplayan bir Laravel uygulamasıdır. Kullanıcılar, arama kelimesi girerek Google Shopping'deki fiyatları görebilirler.
+Bu proje, Google Shopping'de yapılan aramalarda ürün fiyatlarını alıp ortalamasını hesaplayan bir Laravel uygulamasıdır. Kullanıcılar, arama kelimesi girerek Google Shopping'deki fiyatların ortalamasını görebilirler.
 
 ## Özellikler
 
