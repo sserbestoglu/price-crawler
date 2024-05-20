@@ -23,7 +23,7 @@ Bu proje, Google Shopping'de yapılan aramalarda ürün fiyatlarını alıp orta
 
     ```bash
     git clone https://github.com/sserbestoglu/price-crawler.git
-    cd proje_adi
+    cd price-crawler
     ```
 
 2. **Gerekli Paketleri Kurun**
