@@ -39,8 +39,21 @@ Bu proje, Google Shopping'de yapılan aramalarda ürün fiyatlarını alıp orta
     ```bash
     npm install
     ```
+3. **.env Dosyasını Oluşturun**
 
-3. **Puppeteer Kurulumu**
+    `.env.example` dosyasını kopyalayarak `.env` dosyasını oluşturun ve gerekli ayarları yapın:
+
+    ```bash
+    cp .env.example .env
+    ```
+
+    Ardından uygulama anahtarını oluşturun:
+
+    ```bash
+    php artisan key:generate
+    ```
+
+4. **Puppeteer Kurulumu**
 
     Puppeteer'ı npm ile kurun:
 
